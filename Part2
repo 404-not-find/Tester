@@ -1,0 +1,8 @@
+Document any possible test case that you would perform in order to test the following form embedded in a website. Include testing about functionality, security, performance, etc.
+
+Answer：
+1. 输入长文本，点击Post，查看是否正常。
+2. 拖拽或者点击upload，上传大文件，查看是否正常。
+3. 点击Write article 查看是否正常。
+4. 输入特殊字符，或者一段特殊的SQL，点击Post，查看是否有异常。
+5. 模拟高并发场景，点击Post，查看是否正常。
